@@ -1,11 +1,10 @@
 .title {
     font-size: 40px;
     color:gold;
-    padding: 20px;
 }
 
 .text {
     text-transform: uppercase;
     text-align: justify;
-    padding: 20px;
+    padding: 20px 0 40px;
 }

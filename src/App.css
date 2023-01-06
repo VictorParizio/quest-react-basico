@@ -8,4 +8,5 @@
 .container {
   background-color: rgb(22, 23, 44);
   height: 100vh;
+  padding: 40px;
 }
